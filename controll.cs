@@ -5,8 +5,6 @@ using UnityEngine;
 public class control : MonoBehaviour
 {
     public float wantedDistance = 5f;
-
-
     public float droneMaxSpeed = 8.0f;
     public float droneMaxAcceleration = 3.0f;
     private float elapsedTime;
